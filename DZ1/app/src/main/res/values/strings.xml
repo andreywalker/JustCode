@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DZ1</string>
+    <string name="hello_application">Hello Application</string>
+    <string name="hello_mes">Hello, my name is %1$s</string>
+</resources>
