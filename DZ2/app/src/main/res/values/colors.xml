@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="belyy">#FFE6DAFF</color>
+    <color name="belyy2">#FFD9C8FF</color>
+    <color name="belyy3">#FFD9C8FF</color>
+    <color name="fon">#FF33284E</color>
+    <color name="darkfon">#FF1A132B</color>
+</resources>
